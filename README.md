@@ -52,7 +52,7 @@ The trained model was able to achieve the following results:
 
 1. **Clone the project repository**:
    ```bash
-   git clone https://github.com/errors4o4/SmartEdge-Vision
+   git clone https://github.com/AmrutRaote/SmartEdge-Vision
    ```
 
 2. **Create a virtual environment**:
